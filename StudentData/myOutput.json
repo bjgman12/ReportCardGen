@@ -1,0 +1,73 @@
+{
+    "students ": [
+        {
+            "id": "1",
+            "name": "A",
+            "total_Average": 76.77,
+            "courses": [
+                {
+                    "course_id": "1",
+                    "course_average": 90.1,
+                    "course_name": "Biology",
+                    "teacher": "Mr. D"
+                },
+                {
+                    "course_id": "2",
+                    "course_average": 50.099999999999994,
+                    "course_name": "History",
+                    "teacher": " Mrs. P"
+                },
+                {
+                    "course_id": "3",
+                    "course_average": 90.1,
+                    "course_name": "Math",
+                    "teacher": " Mrs. C"
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "name": "B",
+            "total_Average": 51.8,
+            "courses": [
+                {
+                    "course_id": "1",
+                    "course_average": 51.8,
+                    "course_name": "Biology",
+                    "teacher": "Mr. D"
+                },
+                {
+                    "course_id": "3",
+                    "course_average": 51.8,
+                    "course_name": "Math",
+                    "teacher": " Mrs. C"
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "name": "C",
+            "total_Average": 74.2,
+            "courses": [
+                {
+                    "course_id": "1",
+                    "course_average": 74.2,
+                    "course_name": "Biology",
+                    "teacher": "Mr. D"
+                },
+                {
+                    "course_id": "2",
+                    "course_average": 74.2,
+                    "course_name": "History",
+                    "teacher": " Mrs. P"
+                },
+                {
+                    "course_id": "3",
+                    "course_average": 74.2,
+                    "course_name": "Math",
+                    "teacher": " Mrs. C"
+                }
+            ]
+        }
+    ]
+}
